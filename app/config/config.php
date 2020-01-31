@@ -10,4 +10,4 @@
   // URL Root
   define('URLROOT', 'http://localhost/');
   // Site Name
-  define('SITENAME','AAA');
+  define('SITENAME','AAAlevel');
